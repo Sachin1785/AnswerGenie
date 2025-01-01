@@ -1,0 +1,14 @@
+speechrecognition
+pyaudio
+pytesseract
+pillow
+pymupdf
+python-dotenv
+groq
+httpx==0.23.0
+faiss-cpu
+numpy
+sentence-transformers
+python-pptx
+python-docx
+streamlit
